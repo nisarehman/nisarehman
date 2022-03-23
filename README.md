@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @nisarehman
-- 👀 I’m interested in Arts
+- 👀 I’m a passionate Artist
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: @creativenisa on Instagram
 
 <!---
 nisarehman/nisarehman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
